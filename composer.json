@@ -1,0 +1,20 @@
+{
+    "name": "rz12345/php-google-calendar",
+    "authors": [
+        {
+            "name": "Rz Chen",
+            "email": "rz12345@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^1.1",
+        "bramus/router": "^1.1",
+        "symfony/http-foundation": "^3.1",
+        "philo/laravel-blade": "^3.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
