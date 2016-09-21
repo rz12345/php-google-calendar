@@ -6,7 +6,8 @@
 ## 環境
 * Apache 2.4.* (需要 mod_rewrite 模組)
 * php 5.6.* (需要 php_curl & php_openssl 模組)
-> For Windows: [wamp](http://www.wampserver.com/en/)
+
+> Windows 環境 solution: [wamp](http://www.wampserver.com/en/)
 
 ## 部屬
 1. 將 repo clone 回來
