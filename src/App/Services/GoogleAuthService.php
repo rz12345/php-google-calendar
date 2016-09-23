@@ -54,7 +54,7 @@ class GoogleAuthService {
             try {
                 $client->refreshToken($token['refreshToken']);
             } catch (\Exception $e) {
-                if (strpos($e->getMessage(), 'invalid_grant') !== -1) {
+                if (strpos($e->getMessage(), 'invalid_grant') !== FALSE) {
                     // 若 token 為 invalid_grant , 則清空 token
                     self::saveAccessToken('', '');
                     die('Error refreshing the OAuth2 token');
