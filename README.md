@@ -11,7 +11,7 @@
 
 ## 部屬
 1. 將 repo clone 回來
-2. 安裝套件 `composer install`
+2. 安裝套件 `composer install` && `bower install`
  
 ## 開啟 API 存取
 1. 至 [Google Clound Platform Console](https://console.cloud.google.com/) 建立 Project
