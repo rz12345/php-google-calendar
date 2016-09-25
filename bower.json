@@ -1,0 +1,18 @@
+{
+  "name": "php-google-calendar",
+  "homepage": "https://github.com/rz12345/php-google-calendar",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.*",
+    "datetimepicker": "^2.5.4"
+  }
+}

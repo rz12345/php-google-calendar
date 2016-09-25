@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <script src="./../../asset/jquery-1.12.3.min.js"></script>
-    <script src="./../../asset/datetimepicker-master/build/jquery.datetimepicker.full.min.js"></script>
-    <link rel="stylesheet" href="./../../asset/datetimepicker-master/build/jquery.datetimepicker.min.css">
+    <script src="./../../../bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="./../../../bower_components/datetimepicker/build/jquery.datetimepicker.full.min.js"></script>
+    <link rel="stylesheet" href="./../../../bower_components/datetimepicker/jquery.datetimepicker.css">
     <title>Create Event</title>
 </head>
 <body>
